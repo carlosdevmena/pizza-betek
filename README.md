@@ -1,6 +1,6 @@
 # pizza-betek
 
-Pizza al estilo Betek
+PIZZA AL ESTILO BETEK
 
 Instrucciones
 
@@ -10,8 +10,7 @@ Instrucciones
 
 Ingredientes
 
--Masa
-
+- Masa
 
 - Tomate - Carlos Palacios
 
@@ -28,7 +27,7 @@ Ingredientes
 - Champiñones
 
 
-Pasos para empezar
+PASOS PARA EMPEZAR
 
 1. Clonar el repositorio
 
