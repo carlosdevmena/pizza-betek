@@ -11,10 +11,29 @@ Instrucciones
 Ingredientes
 
 -Masa
--Tomate - Carlos Palacios
--Mozzarella
--Quesos variados
--Embutidos italianos
--Embutidos picantes
--Aceitunas
--Champiñones
+
+
+- Tomate - Carlos Palacios
+
+- Mozzarella
+
+- Quesos variados
+
+- Embutidos italianos
+
+- Embutidos picantes
+
+- Aceitunas
+
+- Champiñones
+
+
+Pasos para empezar
+
+1. Clonar el repositorio
+
+git clone https://github.com/carlosdevmena/pizza-betek.git
+
+2. Leer instrcciones
+
+3. Luego de realizados sus cambios, comiteados y halla creado un git push o pull request, notificar por el grupo :)
