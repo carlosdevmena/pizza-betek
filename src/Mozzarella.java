@@ -6,6 +6,6 @@ public class Mozzarella {
     }
 
     public void agregar() {
-        System.out.println("Tomate agregado a la pizza.");
+        System.out.println("Mozzarella agregado a la pizza.");
     }
 }
