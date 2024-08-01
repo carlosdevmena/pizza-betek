@@ -17,6 +17,7 @@ public class Pizza {
             tomate.agregar();
             champiñones.agregar();
             mozzarella.agregar();
+            masa.agregar();
             System.out.println("Pizza lista para llevar");
         }
 
