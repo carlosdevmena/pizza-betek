@@ -55,4 +55,8 @@ public class Masa {
         System.out.println("Se ha estirado correctamente la masa.");
         System.out.println("Ahora agrega los ingredientes.");
     }
+
+    public void agregar(){
+        System.out.println("Masa agregado a la pizza.");
+    }
 }
